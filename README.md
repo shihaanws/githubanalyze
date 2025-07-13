@@ -13,7 +13,7 @@ A modern, performant, and fully extensible web application built with:
 
 ## 📹 Product Demo
 
-🎬 **Watch the demo video:** [Click to view on YouTube]([https://www.youtube.com/watch?v=QtxRWOeU754])  
+🎬 **Watch the demo video:** [Click to view on YouTube](https://www.youtube.com/watch?v=QtxRWOeU754)  
 
 ---
 
